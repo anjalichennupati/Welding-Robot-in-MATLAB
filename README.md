@@ -24,9 +24,8 @@ This project implements a welding robot in MATLAB using Denavit-Hartenberg (DH) 
 
 
 - **Automated Welding on Predefined Shapes**: The robot is programmed to weld along lines, squares, circles, and rectangles based on user-defined coordinates. Transformation matrices and inverse kinematics ensure precise execution of the welding path.
-<video width="800" controls>
-  <source src="https://vimeo.com/1059965683" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/64bc2b09-e6f2-44fe-a580-973dcedec0d1
+
 
 
 - **Spot Welding Implementation**: Spot welding is achieved using a mathematical interpolation formula between two given points. The robot moves through the calculated trajectory to perform spot welding efficiently.
