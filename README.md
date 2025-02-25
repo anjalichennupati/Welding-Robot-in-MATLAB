@@ -4,7 +4,7 @@
 # Overview
 
 This project implements a welding robot in MATLAB using Denavit-Hartenberg (DH) parameters for kinematic modeling. The robot performs automated welding, including spot welding and welding along predefined shapes like lines, squares, rectangles, and circles.
-
+Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2022.
 
 
 
